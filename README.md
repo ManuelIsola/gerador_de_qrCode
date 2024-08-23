@@ -20,7 +20,7 @@ O **Gerador de QR Code com Bootstrap** é uma aplicação web simples que permit
 - **jQuery e Popper.js**: Para manipulação do DOM e funcionamento do Bootstrap.
 
 ## Autor
-- **Manuel Albano Domingos Isola
+- **Manuel Albano Domingos Isola**
 
 ## Como Usar
 
