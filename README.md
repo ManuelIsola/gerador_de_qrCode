@@ -26,4 +26,4 @@ O **Gerador de QR Code com Bootstrap** é uma aplicação web simples que permit
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/usuario/gerador-qrcode.git
+   https://github.com/ManuelIsola/gerador_de_qrCode.git
